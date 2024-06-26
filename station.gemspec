@@ -49,7 +49,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency('gravatar_image_tag', '~> 1.2')
   spec.add_runtime_dependency('greenhouse_io', '~> 2.5')
   spec.add_runtime_dependency('recaptcha', '~> 5.3')
-  spec.add_runtime_dependency('split', '~> 3.4')
+  spec.add_runtime_dependency('split', '>= 3.4', '< 5.0')
   spec.add_runtime_dependency('listen', '~> 3.2')
   spec.add_runtime_dependency('inherited_resources', '~> 1.11')
   spec.add_runtime_dependency('msgpack', '~> 1.3')
