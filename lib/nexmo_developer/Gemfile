@@ -84,7 +84,7 @@ gem 'octokit', require: false
 gem 'woothee'
 
 # The simplest way to group temporal data
-gem 'groupdate', '5.2.2'
+gem 'groupdate', '6.4.0'
 
 # Boot large ruby/rails apps faster
 gem 'bootsnap', require: false
